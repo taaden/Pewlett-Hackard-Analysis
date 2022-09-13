@@ -4,4 +4,5 @@
    to participate in a mentorship program with a written report that summarizes the analysis and helps prepare for the “silver tsunami” 
    as many current employees reach retirement age.
  ### Results
-    *There are 72,458 employees with different titles that will be retiring from the workforce of Pewlett Hackard."C:\Users\dammy\Downloads\retiring_titles.csv"
+    *There are 72,458 employees with different titles that will be retiring from the workforce of Pewlett Hackard.
+[retiring_titles.csv](https://github.com/taaden/Pewlett-Hackard-Analysis/files/9560771/retiring_titles.csv)
