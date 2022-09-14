@@ -22,5 +22,6 @@
      * 72,458 roles will need to be filled as the "silver tsunami" begins to make an impact
  ![Retiring_titles_table](https://user-images.githubusercontent.com/64270455/190033620-a651245b-e419-4ad4-8fee-aa5cb0f9a319.png)
  
-     * There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees
+     * There are not enough qualified, retirement-ready employees in the departments to mentor 
+       the next generation of Pewlett Hackard employees,considering 72,458 will be retiring fom the workforce.
 ![monitoring_titles_table](https://user-images.githubusercontent.com/64270455/190034488-b94bd133-15af-462b-97d5-3a0d252ee3ec.png)
