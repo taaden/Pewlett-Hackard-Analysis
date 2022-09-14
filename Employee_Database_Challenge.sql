@@ -27,3 +27,10 @@ INNER JOIN titles AS t
 ON (t.emp_no = e.emp_no)
 WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date ='9999-01-01')
 ORDER BY emp_no;
+
+-- mentorship eligibilty  by title
+SELECT COUNT(title),title
+INTO mentoring_titles
+FROM mentorship_eligibilty
+GROUP BY  title
+ORDER BY COUNT DESC;
