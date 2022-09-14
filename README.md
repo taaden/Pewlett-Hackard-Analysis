@@ -11,5 +11,6 @@
     * There are 1,549 employees that are eligibile for mentorship.                                                                                                             [mentorship_eligibility.csv](https://github.com/taaden/Pewlett-Hackard-Analysis/files/9561530/mentorship_eligibility.csv)
     * 34% of the employees that are eligible for mentorship are Staff(526),30.1% of the employees that are eligible for
       mentorship are Engineers(467),13.5% are Senior Engineers(209),12.8% are Senior Staff(198), about 5% are Technique Leaders(77)
-      and finally 4.6% are Assistant Engineers(72)[mentoring_titles.csv](https://github.com/taaden/Pewlett-Hackard-Analysis/files/9561526/mentoring_titles.csv)
+      and finally 4.6% are Assistant Engineers(72).
+      [mentoring_titles.csv](https://github.com/taaden/Pewlett-Hackard-Analysis/files/9561526/mentoring_titles.csv)
 
